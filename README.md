@@ -1,0 +1,2 @@
+# winActivator
+can activate windows
